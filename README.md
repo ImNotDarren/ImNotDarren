@@ -8,7 +8,7 @@
 
 ## ⚡ Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,dart,html,css,git,nodejs,express,flask,spring,react,flutter,redis,redux,sqlite,sequelize,anaconda,azure,aws,pytorch,tensorflow,sklearn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,dart,html,css,git,nodejs,express,flask,spring,react,flutter,redis,redux,sqlite,mysql,netlify,materialui,sequelize,md,regex,anaconda,azure,aws,pytorch,tensorflow,sklearn&perline=8&theme=light)](https://skillicons.dev)
 
 <hr>
 
