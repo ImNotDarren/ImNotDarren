@@ -1,7 +1,11 @@
-## Follow Me
+<div align="center">
+  <h1 align="center">Follow Me</h1>
+  
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/ImNotDarren)](https://github.com/ImNotDarren)
+  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darren-sizuo-liu/)](https://www.linkedin.com/in/darren-sizuo-liu/)
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/ImNotDarren)](https://github.com/ImNotDarren)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darren-sizuo-liu/)](https://www.linkedin.com/in/darren-sizuo-liu/)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotDarren&layout=donut)
+</div>
 
 ## ⚡ Technologies
 
